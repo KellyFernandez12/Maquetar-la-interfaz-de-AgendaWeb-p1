@@ -2,18 +2,18 @@
    Variables Visuales (Paleta Azulada - Executive Slate)
    ========================================================================== */
 :root {
-  --primary-dark: #1E3A8A;     /* Azul marino oscuro para el header */
-  --primary-accent: #2563EB;   /* Azul vibrante para acentos y activo */
-  --primary-light: #DBEAFE;    /* Azul suave para iconos/destacados */
-  --bg-page: #F8FAFC;          /* Fondo gris azulado claro */
-  --bg-card: #EFF6FF;          /* Fondo azul muy claro para tarjetas */
-  --text-main: #0F172A;        /* Azul pizarra oscuro para títulos */
-  --text-muted: #475569;       /* Gris azulado medio para subtítulos */
-  --border-color: #E2E8F0;     /* Bordes finos */
-  --white: #FFFFFF;
+    primary-dark: #1E3A8A;     /* Azul marino oscuro para el header */
+    primary-accent: #2563EB;   /* Azul vibrante para acentos y activo */
+    primary-light: #DBEAFE;    /* Azul suave para iconos/destacados */
+    bg-page: #F8FAFC;          /* Fondo gris azulado claro */
+    bg-card: #EFF6FF;          /* Fondo azul muy claro para tarjetas */
+    text-main: #0F172A;        /* Azul pizarra oscuro para títulos */
+    text-muted: #475569;       /* Gris azulado medio para subtítulos */
+    border-color: #E2E8F0;     /* Bordes finos */
+    white: #FFFFFF;
 
-  --font-heading: 'Plus Jakarta Sans', sans-serif;
-  --font-body: 'Inter', sans-serif;
+    font-heading: 'Plus Jakarta Sans', sans-serif;
+    font-body: 'Inter', sans-serif;
 }
 
 /* Reset Básico */
